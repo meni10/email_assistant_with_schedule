@@ -1,6 +1,8 @@
+venv_new/
 *.pyc
 __pycache__/
 .env
 db.sqlite3
-credentials.json
 *.log
+.vscode/
+.DS_Store
